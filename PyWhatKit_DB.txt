@@ -1,0 +1,106 @@
+Date: 18/5/2024
+Time: 15:39
+Phone Number: +51957175390
+Message: Hola, este es un mensaje de prueba
+--------------------
+Date: 18/5/2024
+Time: 15:45
+Group ID: JCZbtasBomP29QSyRpw7sL
+Message: Hola, este es un mensaje de prueba
+--------------------
+Date: 18/5/2024
+Time: 15:59
+Group ID: JCZbtasBomP29QSyRpw7sL
+Image: elprimo.webp
+Caption: Sin dolor no hay gloria
+--------------------
+Date: 18/5/2024
+Time: 17:8
+Group ID: JCZbtasBomP29QSyRpw7sL
+Image: menu.jpg
+Caption: MENÚ DEL DÍA LUNES 20-05-2024
+--------------------
+Date: 18/5/2024
+Time: 17:13
+Group ID: JCZbtasBomP29QSyRpw7sL
+Image: menu.jpg
+Caption: MENÚ DEL DÍA LUNES 20-05-2024
+--------------------
+Date: 18/5/2024
+Time: 17:16
+Group ID: JCZbtasBomP29QSyRpw7sL
+Image: menu.jpg
+Caption: MENÚ DEL DÍA LUNES 20-05-2024
+--------------------
+Date: 18/5/2024
+Time: 17:19
+Group ID: JCZbtasBomP29QSyRpw7sL
+Image: menu.jpg
+Caption: canción
+--------------------
+Date: 18/5/2024
+Time: 17:27
+Group ID: JCZbtasBomP29QSyRpw7sL
+Image: menu.jpg
+Caption: MENU DEL DIA LUNES 20-05-2024
+--------------------
+Date: 18/5/2024
+Time: 17:29
+Group ID: JCZbtasBomP29QSyRpw7sL
+Image: menu.jpg
+Caption: MENU DEL DIA LUNES 20-05-2024
+--------------------
+Date: 18/5/2024
+Time: 17:31
+Group ID: JCZbtasBomP29QSyRpw7sL
+Image: menu.jpg
+Caption: MENU DEL DIA LUNES 20-05-2024
+--------------------
+Date: 18/5/2024
+Time: 17:41
+Group ID: JCZbtasBomP29QSyRpw7sL
+Image: menu.jpg
+Caption: MENU DEL DIA LUNES 20-05-2024
+--------------------
+Date: 18/5/2024
+Time: 17:42
+Group ID: JCZbtasBomP29QSyRpw7sL
+Image: menu.jpg
+Caption: MENU DEL DIA LUNES 20-05-2024
+--------------------
+Date: 18/5/2024
+Time: 17:44
+Group ID: JCZbtasBomP29QSyRpw7sL
+Image: menu.jpg
+Caption: MENU DEL DIA LUNES 20-05-2024
+--------------------
+Date: 18/5/2024
+Time: 17:48
+Group ID: JCZbtasBomP29QSyRpw7sL
+Image: menu.jpg
+Caption: MENU DEL DIA LUNES 20-05-2024
+--------------------
+Date: 18/5/2024
+Time: 18:44
+Group ID: JCZbtasBomP29QSyRpw7sL
+Image: C:/Users/josue/OneDrive/Documentos/WebScraping/DafiBot/menu.jpg
+Caption: MENU DEL DIA LUNES 20-05-2024
+--------------------
+Date: 18/5/2024
+Time: 18:47
+Group ID: JCZbtasBomP29QSyRpw7sL
+Image: C:/Users/josue/OneDrive/Documentos/WebScraping/DafiBot/menu.jpg
+Caption: MENU DEL DIA LUNES 20-05-2024
+--------------------
+Date: 19/5/2024
+Time: 20:58
+Group ID: Ketg30yLNJi2QwMfpYfXDd
+Image: menu.jpg
+Caption: MENU DEL DIA LUNES 20-05-2024
+--------------------
+Date: 20/5/2024
+Time: 21:40
+Group ID: Ketg30yLNJi2QwMfpYfXDd
+Image: menu.jpg
+Caption: Hola soy DAFIBOT y: MENU DEL DIA MARTES 21-05-2024
+--------------------
